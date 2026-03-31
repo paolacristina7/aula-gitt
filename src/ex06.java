@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class ex06 {
+public class
+ex06 {
     static void main() {
                 Scanner sc = new Scanner (System.in);
                 IO.println("Digite Quantas Horas voce Estudou: ");
