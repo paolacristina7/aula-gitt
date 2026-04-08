@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class ex02 {
+    static void main() {
+    }
 }
+
